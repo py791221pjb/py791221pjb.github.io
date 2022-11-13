@@ -104,7 +104,7 @@
     <canvas id="pinkboard"></canvas>
     <!-- 在下面加名字 -->
      <div id="name" style="color: rgb(200, 66, 110);">张佳慧小姐最美</div> 
-     <img id="name" src="可爱的小张同学.png" style="width:78px; margin-top: 53px; height:78px; border-radius:100%; overflow:hidden;" alt="张佳慧最可爱" />
+     <img id="name" src="https://github.com/py791221pjb/py791221pjb.github.io/issues/1#issue-1446955660" style="width:78px; margin-top: 53px; height:78px; border-radius:100%; overflow:hidden;" alt="张佳慧最可爱" />
 
  
     <script>
